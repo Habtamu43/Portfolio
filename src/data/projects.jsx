@@ -4,7 +4,7 @@ const projects = [
     title: "E-commerce Website for Direct Trade",
     description:
       "Developed using MERN stack (MongoDB, Express.js, React, Node.js) to facilitate direct trade between buyers and sellers.",
-    github: "https://github.com/Habtamu43/ecommerce-mern",
+    github: "https://github.com/Habtamu43?tab=repositories",
     demo: "#",
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     title: "User Authentication System",
     description:
       "Built with Python, featuring secure user login and registration functionality.",
-    github: "https://github.com/Habtamu43/python-auth",
+    github: "https://github.com/Habtamu43?tab=repositories",
     demo: "#",
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     title: "Social Media App",
     description:
       "Created using PHP, allowing users to create profiles, post updates, and interact with each other.",
-    github: "https://github.com/Habtamu43/php-social-media",
+    github: "https://github.com/Habtamu43?tab=repositories",
     demo: "#",
   },
   {

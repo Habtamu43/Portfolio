@@ -25,13 +25,12 @@ export default function About() {
           <div className="col-md-8">
             <div className="card shadow-sm p-4 border-0" style={{ background: 'white' }}>
               <p className="fs-5 text-dark mb-3" style={{ lineHeight: '1.8' }}>
-                I am a <span className="fw-bold text-primary">highly motivated Electrical & Computer Engineering graduate</span> (BSc CGPA: 3.74, MSc CGPA: 3.7) from Addis Ababa Science and Technology University (AASTU). 
-                With strong engineering principles and diverse software development skills, I specialize in <span className="fw-semibold text-secondary">full-stack web development</span> using <span className="fw-semibold">MERN, Django, Laravel</span>, and more.
+                I am a <span className="fw-bold text-primary">graduate in  Electrical & Computer Engineering graduate</span> (BSc CGPA: 3.74, MSc CGPA: 3.7) from Addis Ababa Science and Technology University (AASTU). 
+                With strong engineering principles and diverse software development skills, I specialize in <span className="fw-semibold text-secondary">full-stack web development</span> using <span className="fw-semibold">MERN, and Python| Django</span>
               </p>
               <p className="fs-5 text-dark mb-3" style={{ lineHeight: '1.8' }}>
-                Certified in <span className="fw-bold text-primary">Responsive Web Design (FreeCodeCamp)</span> and <span className="fw-bold text-primary">Cisco CCNA</span>, I bring both practical and theoretical knowledge in web technologies and network systems. 
-                My internship at <span className="fw-semibold">Ashewa Tech Software Development Company</span> strengthened my ability to deliver scalable applications through collaboration and problem-solving.
-              </p>
+                I am Certified in <span className="fw-bold text-primary">in Full stack Developer</span> <span className="fw-bold text-primary">in MERN from Addis Ababa Science University</span>, I bring both practical and theoretical knowledge in full stack web technologies 
+                </p>
               <p className="fs-5 text-dark mb-3" style={{ lineHeight: '1.8' }}>
                 I am eager to contribute to <span className="fw-bold text-secondary">innovative projects</span> by leveraging my technical skills and passion for continuous learning.
               </p>
